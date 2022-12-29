@@ -1,0 +1,8 @@
+p{
+    font-size: 20px;
+    /* 1 inch=96 px */
+    /* 1 inch=2.54cm */
+    /* 1 px=0.75pt */
+    border: 20px solid red;
+}
+

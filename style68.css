@@ -1,0 +1,17 @@
+/* body :not(.fancy){
+    color: blue;
+    background-color: #ddd;
+} */
+/* body : iska matlab body ke andar */
+/* div:empty{
+    background: #222;
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+} */
+:root{
+    background: #333;
+    color: #eee;
+}
+/* root=html */
+/* root has mote specificty */
